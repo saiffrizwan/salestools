@@ -6,7 +6,7 @@ public class rizwan {
 		
 		
 		
-		System.out.println("Making some chanes  to code ");
+		System.out.println("working on git from lahore ");
 
 	}
 
